@@ -1,5 +1,5 @@
 # AD2 project 🤩
-I've made a simple djkstra algorithm shortest path finder for my friend for ad2 project.
+I've made a simple djkstra algorithm shortest path finder for my ad2 project.
  
 
 ## Acknowledgements
